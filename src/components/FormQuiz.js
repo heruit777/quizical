@@ -174,6 +174,7 @@ export default function FormQuiz(props) {
                     <button className="bg-purple-500 text-white w-44 p-2 rounded-lg my-5" onClick={handlePlayAgain}>Play again</button>
                 </div>
             }
+            
         </form>
     );
 }
